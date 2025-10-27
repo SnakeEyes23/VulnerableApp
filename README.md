@@ -230,3 +230,4 @@ This project is for educational purposes only. See [LICENSE](./LICENSE) for deta
 ---
 
 **Remember**: This application is intentionally vulnerable. Use only for security training in isolated environments.
+**Remember**: CxTraining20.
