@@ -60,7 +60,7 @@ open http://localhost:8080
 | SQL Injection | `main.go:loginHandler` | Critical | CWE-89 |
 | Cross-Site Scripting | `templates/search.html` | High | CWE-79 |
 | Hard-coded Secrets | `main.go:initDB` | Medium | CWE-798 |
-
+-------------------
 ### SCA Vulnerabilities
 
 | Package | Version | CVE | Severity | Fix Available |
